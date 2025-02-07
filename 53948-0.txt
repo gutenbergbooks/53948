@@ -27,10 +27,8 @@ Character set encoding: UTF-8
 
 
 
-Produced by David T. Jones, Mardi Desjardins & the online
-Distributed Proofreaders Canada team at
-http://www.pgdpcanada.net from images generously made
-available by Google Books.
+Produced by David T. Jones, Mardi Desjardins and the online
+Distributed Proofreaders Canada team
 
 
 
@@ -9318,10 +9316,8 @@ January 1849, by Various
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/5/3/9/4/53948/
 
-Produced by David T. Jones, Mardi Desjardins & the online
-Distributed Proofreaders Canada team at
-http://www.pgdpcanada.net from images generously made
-available by Google Books.
+Produced by David T. Jones, Mardi Desjardins and the online
+Distributed Proofreaders Canada team
 
 Updated editions will replace the previous one--the old editions will
 be renamed.
